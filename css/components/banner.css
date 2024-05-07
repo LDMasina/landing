@@ -1,0 +1,43 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner-container {
+    width: 900px;
+    text-align: left;
+    margin: 30px;
+}
+
+.banner h1 {
+  font-size: 60px;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.banner p {
+  color: #ffffff;
+  opacity: .7;
+  font-size: 20px;
+  object-position: top;
+  margin-top: 0;
+}
+
+.btn-banner {
+  display: inline-block;
+  background-color: #DDDCD7;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-banner:hover {
+  display: inline-block;
+  background-color: #000203;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: background-color 0.3s ease;
+}
